@@ -1,0 +1,1 @@
+This program is designed to manage orders. Customers can place orders for various molds, specify their details, and the program calculates the total cost including shipping. Additionally, it generates a text file for each order with the customer's last name for record-keeping.
